@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philemonvnath
-- 👀 I’m interested in data & business analytics
-- 🌱 I’m currently learning in R ,Python
+- 👀 I’m interested in data , business analytics ,Software Engineering and Full Stack development.
+- 🌱 I’m currently learning in Java.
 - 💞️ I’m looking to collaborate on any projects relevant to my interests
 - 📫 How to reach me :you reach me @. Philemonvnath@gmail.com or here as well.
 
